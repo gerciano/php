@@ -1,6 +1,6 @@
 <? 
 
-echo " hellow world!"
+echo " ola mundo!"
 
 
 ?>
